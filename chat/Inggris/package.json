@@ -1,0 +1,23 @@
+{
+  "name": "inggris",
+  "version": "1.0.0",
+  "description": "say hello in Inggris",
+  "main": "index.js",
+  "scripts": {
+    "test": "haloDuniaArmadillo()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kudomah0/eldechat.git"
+  },
+  "keywords": [
+    "say",
+    "hello"
+  ],
+  "author": "eldez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kudomah0/eldechat/issues"
+  },
+  "homepage": "https://github.com/kudomah0/eldechat#readme"
+}
