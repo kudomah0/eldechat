@@ -21,6 +21,28 @@
   },
   "homepage": "https://github.com/kudomah0/eldechat#readme",
   "dependencies": {
-    "eldechat": "^1.0.0"
+    "eldechat": "^1.0.0",
+      "cowsay": "1.5.0",
+      "afrika": "^1.0.0",
+      "arab": "^1.0.0",
+      "hindi": "^1.0.0",
+      "inggris": "^1.0.0",
+      "italia": "^1.0.0",
+      "jawa": "^1.0.0",
+      "jepang": "^1.0.0",
+      "jerman": "^1.0.0",
+      "mandarin": "^1.0.0",
+      "marathi": "^1.0.0",
+      "portugis": "^1.0.0",
+      "prancis": "^1.0.0",
+      "punjabi": "^1.0.0",
+      "rusia": "^1.0.0",
+      "spanyol": "^1.0.0",
+      "swahili": "^1.0.0",
+      "tamil": "^1.0.0",
+      "telugu": "^1.0.0",
+      "turki": "^1.0.0",
+      "urdu": "^1.0.0"
+      
   }
 }
