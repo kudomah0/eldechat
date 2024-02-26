@@ -20,8 +20,7 @@
     "url": "https://github.com/kudomah0/eldechat/issues"
   },
   "dependencies": {
-    "eldechat": "1.5.0",
-    "afrika": "^1.0.0"
+    "eldechat": "1.0.7"
   },
   
   "homepage": "https://github.com/kudomah0/eldechat#readme"
