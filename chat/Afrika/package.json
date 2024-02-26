@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kudomah0/eldechat.git"
+    "url": "git+https://github.com/kudomah0/eldechat.git",
+    "directory": "chat/Afrika"
   },
   "keywords": [
     "say",
