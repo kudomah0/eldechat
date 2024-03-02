@@ -3,5 +3,4 @@
 version: 1.0.0
 codeOwners:
   - '0x94872d267F49E05c69e0106775195f2E60Abfe10'
-  - '0xf431aB16BebA0bCCd66dE3290b89E47313677233'
-quorum: 2
+quorum: 1
